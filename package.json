@@ -40,6 +40,6 @@
     }
   },
   "dependencies": {
-    "dateformat": "^3.0.2"
+    "dateformat": "^4.4.2"
   }
 }
